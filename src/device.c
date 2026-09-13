@@ -3,6 +3,6 @@
 
 void show_device_status(void)
 {
-	printf("Device Online\n");
+	printf("Device Monitor v1.0 Start\n");
 }
 
