@@ -6,7 +6,7 @@ void show_device_status(void)
 	printf("Device Online\n");
 }
 
-void show_device_ip(void)
+void show_device_ip(const char *ip)
 {
-	printf("IP:192.168.1.100\n");
+	printf("IP:%s\n",ip);
 }
