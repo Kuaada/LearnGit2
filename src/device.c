@@ -3,7 +3,7 @@
 
 void show_device_status(void)
 {
-	printf("Device Online\n");
+	printf("Device Monitor v1.1 Start\n");
 }
 
 void show_device_ip(const char *ip)
